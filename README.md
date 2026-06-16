@@ -7,5 +7,3 @@ O autômato utiliza a estrutura de dados std::stack para "memorizar" a entrada:
 * Leitura de 'a': Para cada 'a' lido, um caractere é adicionado (empilhado) na memória
 * Leitura de 'b': Para cada 'b' lido, um caractere é removido (desempilhado) da memória. 
 * Aceitação: Se ao final da string a pilha estiver vazia, significa que a contagem foi perfeita e a string é aceita. Caso contrário, a string é rejeitada.
-####  Pré-requisitos:
-Um compilador de C++ instalado. Ambiente configurado para compilação via terminal.
